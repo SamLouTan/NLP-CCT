@@ -6,3 +6,4 @@ Requis:
 Installer sur son environnement python avant de run le notebook :
 
 Tensorflow, Keras, Numpy, Pandas, NLTK
+
